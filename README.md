@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duc Anh</h1>
-<h3 align="center">HIHI haha</h3>
+<h3 align="center">![Image](https://github.com/user-attachments/assets/4e2df8a3-ada3-48ff-9292-f005f0c89e79)
+</h3>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DucAnh9981" alt="ducanh9981" /></a> </p>
 
@@ -7,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  **nguyenducanh2003ks@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
