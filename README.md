@@ -1,11 +1,17 @@
 <h1 align="center">Hi <img src="https://github.com/user-attachments/assets/9daaad7d-bb4e-4603-b0ec-b0d6a7611a85" alt="android" height="70"/> My name is Duc Anh</h1>
-<h3 align="center"> <img src="https://github.com/user-attachments/assets/4e2df8a3-ada3-48ff-9292-f005f0c89e79" alt="android" height="23"/>
+<h3 align="center"> 💻 "Why do programmers prefer dark mode?"
+👉 Because light attracts bugs! 🐛😆
 </h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DucAnh9981" alt="ducanh9981" /></a> </p>
+<img align="right" alt="Coding" width="400" height="300" src="https://github.com/user-attachments/assets/37e1caf0-a028-4940-b73e-d81373d7037a" />
 
-- 🌱 I’m currently learning **NuxtJs, NestJs, React Native**
+- 🌱 I’m currently learning **NuxtJs, NestJs, React Native**.  
+- 🎓 I’m studying at **University of Science and Technology – The University of Danang**.  
+- 💻 Passionate about **coding, problem-solving, and building cool projects**.  
+- 🚀 Always eager to **learn new technologies and improve my skills**.  
+- ☕ Fuelled by **coffee and late-night debugging sessions**.
 
 <h3 align="left">Connect with me:</h3>
 
